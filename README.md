@@ -23,6 +23,7 @@ Users click on cards to gain points and are to make sure not to click on a card 
 
 - How to use react hooks (useState, useEffect)
 - Logic for shuffling an array
+- React functional components
 
 ### Attribution
 
