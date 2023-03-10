@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory-card/static/css/main.1bdff542.css",
+    "main.js": "/memory-card/static/js/main.9ecff9f7.js",
+    "static/js/787.9c6971e2.chunk.js": "/memory-card/static/js/787.9c6971e2.chunk.js",
+    "static/media/flash.jpg": "/memory-card/static/media/flash.c5214427d7b19f0a5c28.jpg",
+    "static/media/green-arrow.png": "/memory-card/static/media/green-arrow.e42a923fd359f4cb65fa.png",
+    "static/media/the-hulk.png": "/memory-card/static/media/the-hulk.fd2769409064c52ba045.png",
+    "static/media/aquaman.jpg": "/memory-card/static/media/aquaman.cf0c43452994b09859a0.jpg",
+    "static/media/thor2.jpg": "/memory-card/static/media/thor2.e9c6373aa8348c61e93e.jpg",
+    "static/media/batman2.jpg": "/memory-card/static/media/batman2.0944b0f52d77137a5e22.jpg",
+    "static/media/captain-america2.jpg": "/memory-card/static/media/captain-america2.976a0bb432f83f8fc89f.jpg",
+    "static/media/iron-man.jpg": "/memory-card/static/media/iron-man.4ed43793870bcdb78625.jpg",
+    "static/media/spiderman.jpg": "/memory-card/static/media/spiderman.6987eba1d1f1d42bb2fd.jpg",
+    "static/media/superman.jpg": "/memory-card/static/media/superman.ad6113e864ca9037e423.jpg",
+    "index.html": "/memory-card/index.html",
+    "main.1bdff542.css.map": "/memory-card/static/css/main.1bdff542.css.map",
+    "main.9ecff9f7.js.map": "/memory-card/static/js/main.9ecff9f7.js.map",
+    "787.9c6971e2.chunk.js.map": "/memory-card/static/js/787.9c6971e2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bdff542.css",
+    "static/js/main.9ecff9f7.js"
+  ]
+}
