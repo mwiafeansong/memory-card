@@ -12,7 +12,7 @@ Users click on cards to gain points and are to make sure not to click on a card 
 
 ### Link
 
-[Live Demo](https://www.mwiafeansong.github.io/memory-card)
+[Live Demo](https://mwiafeansong.github.io/memory-card/)
 
 ### Built with
 
